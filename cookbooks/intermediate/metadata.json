@@ -1,0 +1,30 @@
+{
+  "conflicting": {
+  },
+  "maintainer_email": "jon@jonco.com",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "name": "intermediate",
+  "replacing": {
+  },
+  "license": "All rights reserved",
+  "description": "Installs/Configures intermediate",
+  "recommendations": {
+  },
+  "groupings": {
+  },
+  "providing": {
+  },
+  "attributes": {
+  },
+  "suggestions": {
+  },
+  "dependencies": {
+  },
+  "maintainer": "Jon Co",
+  "platforms": {
+  },
+  "version": "0.0.1",
+  "recipes": {
+    "<cookbook_name>::default": "Prints hello world output"
+  }
+}
